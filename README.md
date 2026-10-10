@@ -14,7 +14,7 @@
 
 ## 📌 精选项目
 
-🚧 在手：Kimmy v1.0.7（LuumiAI）— 轻具身智能玩宠、Luumi 通剪、听懂、狂想成像（为 TEDxShenzhen 定制 AI 图生图产品）、thought-to-3d-print（想啥印啥，全网有 1 万关注）
+🚧 在手：Kimmy v1.0.7（LuumiAI）— 轻具身智能玩宠、Luumi 通剪、听懂、狂想成像（为 TEDxShenzhen 定制 AI 图生图产品）、thought-to-3d-print（想啥印啥，全网有 1 万人关注浏览）
 
 ## 🧊 下班之后
 
